@@ -1,4 +1,14 @@
-# 💤 LazyVim
+# My personal 💤 LazyVim Setup
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Installation on Windows
+
+- Make sure Neovim is installed
+- Run bootstrap file on your machine
+
+```bat
+iwr https://raw.githubusercontent.com/LukasRennhofer/NeoVim-Configs/main/installWindows.bat | iex
+```
+
+## Installation on Linux
+
+- TODO
